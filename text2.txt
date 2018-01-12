@@ -1,4 +1,4 @@
-﻿新建的new branch
+新建的new branch
 了破坏
 ## beckhzSecond做了破坏在新的
 分支下学习,并且做
@@ -6,3 +6,5 @@
 ##second 添加新行
 
 再添加一行
+
+别添加了！！！
